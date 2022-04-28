@@ -30,6 +30,4 @@ The projects I performed while taking a course in data analysis at Yandex.Prakti
 | Проект по АB-тестированию | Цель исследования — провести оценку результатов A/B-теста. Задачи: оценить корректность проведения теста и проанализировать его результаты. | Python, Pandas, NumPy, Datetime, Seaborn, Matplotlib, Plotly, SciPy. |
 ||
 | Проект по SQL | Анализ базы данных крупного сервиса для чтения книг по подписке. | SQL, Python, Pandas. |
-
-
-
+||
